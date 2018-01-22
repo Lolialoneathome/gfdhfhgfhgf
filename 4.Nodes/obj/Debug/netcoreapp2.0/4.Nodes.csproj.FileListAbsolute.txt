@@ -1,0 +1,11 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\bin\Debug\netcoreapp2.0\4.Nodes.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\bin\Debug\netcoreapp2.0\4.Nodes.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\bin\Debug\netcoreapp2.0\4.Nodes.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\bin\Debug\netcoreapp2.0\4.Nodes.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\bin\Debug\netcoreapp2.0\4.Nodes.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.csprojResolveAssemblyReference.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\4.Nodes\obj\Debug\netcoreapp2.0\4.Nodes.pdb

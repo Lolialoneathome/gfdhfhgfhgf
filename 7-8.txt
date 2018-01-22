@@ -1,0 +1,46 @@
+            7.
+             я так пон€ла, эта задача св€зана с WCF, с которым € не работала.
+             Ќо вообще € бы делала это через sql, запросом
+             select h.name from hotels h
+             where h.id in ( ids_array )
+             » дальше вернула результат с хранилища сервису как IEnumerable<string>
+
+            8.
+            Ќельз€ гарантировать вставку в таблицу до получени€ ответа от сервиса, а к сервису нельз€ обратитьс€, пока вставка в таблицу не гарантирована. Ћогическое противоречие.
+
+            ≈сли же это задание про то, как гарантировать вставку в таблицу, то можно делать так:
+                1 вариант:
+
+            void AddMeMoney(decimal maneyManeyManey)  {
+                var conn = new PgSqlConnection(str);
+                conn.Open();
+                var command = new PgSqlCommand() {
+                    Connection = conn
+                };
+                PgSqlTransaction myTrans;
+                myTrans = conn.BeginTransaction();
+                command.Transaction = myTrans;
+                try
+                {
+                    command.CommandText = $"INSERT INTO mytable Values({maneyManeyManey}) where id = {_currentUser.Id}";
+                    command.ExecuteNonQuery();
+                    if (!IBankOfTheMafia.HeHasMoney())
+                        throw new InvalidOperationException("No money!");
+                    myTrans.Commit();
+                }
+                catch(Exception e)
+                {
+                    myTrans.Rollback();
+                    throw;
+                }
+                finally
+                {
+                    pgConnection.Close();
+                }
+         
+            }
+
+                2 вариант:
+                    ѕодойдет, если оба сервиса работают с одной бд. ¬ынести логику проверки + вставки данных в хранимку, и так же через commit/rollback разрешить ситуацию
+
+             */

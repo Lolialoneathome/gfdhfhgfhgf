@@ -1,0 +1,11 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\bin\Debug\netcoreapp2.0\5.StringIntern.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\bin\Debug\netcoreapp2.0\5.StringIntern.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\bin\Debug\netcoreapp2.0\5.StringIntern.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\bin\Debug\netcoreapp2.0\5.StringIntern.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\bin\Debug\netcoreapp2.0\5.StringIntern.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.csprojResolveAssemblyReference.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\StringIntern\obj\Debug\netcoreapp2.0\5.StringIntern.pdb

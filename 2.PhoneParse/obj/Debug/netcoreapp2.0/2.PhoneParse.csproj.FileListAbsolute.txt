@@ -1,0 +1,11 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\bin\Debug\netcoreapp2.0\2.PhoneParse.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\bin\Debug\netcoreapp2.0\2.PhoneParse.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\bin\Debug\netcoreapp2.0\2.PhoneParse.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\bin\Debug\netcoreapp2.0\2.PhoneParse.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\bin\Debug\netcoreapp2.0\2.PhoneParse.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.csprojResolveAssemblyReference.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\2.PhoneParse\obj\Debug\netcoreapp2.0\2.PhoneParse.pdb

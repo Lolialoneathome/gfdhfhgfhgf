@@ -1,0 +1,10 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\bin\Debug\netcoreapp2.0\1.SampleOOP.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\bin\Debug\netcoreapp2.0\1.SampleOOP.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\bin\Debug\netcoreapp2.0\1.SampleOOP.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\bin\Debug\netcoreapp2.0\1.SampleOOP.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\bin\Debug\netcoreapp2.0\1.SampleOOP.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\obj\Debug\netcoreapp2.0\1.SampleOOP.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\obj\Debug\netcoreapp2.0\1.SampleOOP.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\obj\Debug\netcoreapp2.0\1.SampleOOP.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\obj\Debug\netcoreapp2.0\1.SampleOOP.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\1.SampleOOP\obj\Debug\netcoreapp2.0\1.SampleOOP.pdb

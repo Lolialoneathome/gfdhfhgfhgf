@@ -1,0 +1,11 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\bin\Debug\netcoreapp2.0\6.UshastyiDog.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\bin\Debug\netcoreapp2.0\6.UshastyiDog.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\bin\Debug\netcoreapp2.0\6.UshastyiDog.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\bin\Debug\netcoreapp2.0\6.UshastyiDog.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\bin\Debug\netcoreapp2.0\6.UshastyiDog.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.csprojResolveAssemblyReference.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\6.UshastyiDog\obj\Debug\netcoreapp2.0\6.UshastyiDog.pdb

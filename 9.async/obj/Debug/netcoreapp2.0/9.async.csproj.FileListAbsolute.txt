@@ -1,0 +1,11 @@
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\bin\Debug\netcoreapp2.0\9.async.deps.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\bin\Debug\netcoreapp2.0\9.async.runtimeconfig.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\bin\Debug\netcoreapp2.0\9.async.runtimeconfig.dev.json
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\bin\Debug\netcoreapp2.0\9.async.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\bin\Debug\netcoreapp2.0\9.async.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.csproj.CoreCompileInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.AssemblyInfoInputs.cache
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.AssemblyInfo.cs
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.dll
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.pdb
+c:\users\karl\documents\visual studio 2017\Projects\gfdhfhgfhgf\9.async\obj\Debug\netcoreapp2.0\9.async.csprojResolveAssemblyReference.cache
